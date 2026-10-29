@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 using LandingPizzeria.Core.Entidades;
 
-namespace LandingPizzeria.Service.Interface;
+namespace LandingPizzeria.Services.Interface;
 
 public interface IUsuarioService
 {

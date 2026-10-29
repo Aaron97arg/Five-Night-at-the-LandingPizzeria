@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using LandingPizzeria.Core.Entidades;
 using LandingPizzeria.Core.Estado;
 
-namespace LandingPizzeria.Service.Interface;
+namespace LandingPizzeria.Services.Interface;
 
 public interface IPedidoService
 {

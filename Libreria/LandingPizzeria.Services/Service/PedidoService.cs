@@ -7,9 +7,9 @@ using Microsoft.Extensions.Logging;
 using LandingPizzeria.Core.Entidades;
 using LandingPizzeria.Core.Estado;
 using LandingPizzeria.Core.Interface;
-using LandingPizzeria.Service.Interface;
+using LandingPizzeria.Services.IService;
 
-namespace LandingPizzeria.Service.Services;
+namespace LandingPizzeria.Services.Service;
 
 public class PedidoService : IPedidoService
 {
