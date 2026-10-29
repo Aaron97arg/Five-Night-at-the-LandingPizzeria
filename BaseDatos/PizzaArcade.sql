@@ -2,6 +2,19 @@ drop database if exists PizzaArcade;
 create database PizzaArcade;
 use PizzaArcade;
 
+CREATE TABLE Usuario(
+    idUsuario INT NOT NULL AUTO_INCREMENT,
+    usuario VARCHAR(50) NOT NULL,
+    nombre VARCHAR(100) NOT NULL,
+    apellido VARCHAR(100) NOT NULL,
+    email VARCHAR(150) NOT NULL,
+    passwordHash VARCHAR(255) NOT NULL,
+    telefono VARCHAR(20),
+    direccion VARCHAR(150),
+
+    CONSTRAINT PK_Usuario PRIMARY KEY (idUsuario),
+    CONSTRAINT UQ_Usuario_Email UNIQUE (email)
+);
 
 create table Cliente(
     idCliente int not null auto_increment,

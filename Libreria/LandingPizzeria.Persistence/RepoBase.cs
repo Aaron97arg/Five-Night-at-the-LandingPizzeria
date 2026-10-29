@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using MySqlConnector;
 
-namespace LandingPizzeria.Persistencia
+namespace LandingPizzeria.Persistence
 {
     public abstract class RepoBase
     {

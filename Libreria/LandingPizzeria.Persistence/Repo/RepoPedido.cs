@@ -1,12 +1,12 @@
 ﻿using Dapper;
 using Microsoft.Extensions.Configuration;
-using Pizzeria.Dominio.Entidades;
-using Pizzeria.Dominio.Enums;
-using Pizzeria.Dominio.Interfaces;
+using LandingPizzeria.Core.Entidades;
+using LandingPizzeria.Core.Estado;
+using LandingPizzeria.Core.Interface;
 
-namespace LandingPizzeria.Persistencia.Repositorios;
+namespace LandingPizzeria.Persistence.Repo;
 
-public class PedidoRepository : RepoBase, IPedidoRepository
+public class RepoPedido : RepoBase, IPedidoRepo
 {
     public PedidoRepository(IConfiguration configuration) : base(configuration)
     {
