@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/Datos/S_proyect/Libreria/LandingPizzeria.Core/LandingPizzeria.Core.csproj": {}
+    "/mnt/Datos/S_proyect/Five Night at the Pizzeria/Five-Night-at-the-LandingPizzeria/Libreria/LandingPizzeria.Core/LandingPizzeria.Core.csproj": {}
   },
   "projects": {
-    "/mnt/Datos/S_proyect/Libreria/LandingPizzeria.Core/LandingPizzeria.Core.csproj": {
+    "/mnt/Datos/S_proyect/Five Night at the Pizzeria/Five-Night-at-the-LandingPizzeria/Libreria/LandingPizzeria.Core/LandingPizzeria.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/Datos/S_proyect/Libreria/LandingPizzeria.Core/LandingPizzeria.Core.csproj",
+        "projectUniqueName": "/mnt/Datos/S_proyect/Five Night at the Pizzeria/Five-Night-at-the-LandingPizzeria/Libreria/LandingPizzeria.Core/LandingPizzeria.Core.csproj",
         "projectName": "LandingPizzeria.Core",
-        "projectPath": "/mnt/Datos/S_proyect/Libreria/LandingPizzeria.Core/LandingPizzeria.Core.csproj",
+        "projectPath": "/mnt/Datos/S_proyect/Five Night at the Pizzeria/Five-Night-at-the-LandingPizzeria/Libreria/LandingPizzeria.Core/LandingPizzeria.Core.csproj",
         "packagesPath": "/home/et12alumno/.nuget/packages/",
-        "outputPath": "/mnt/Datos/S_proyect/Libreria/LandingPizzeria.Core/obj/",
+        "outputPath": "/mnt/Datos/S_proyect/Five Night at the Pizzeria/Five-Night-at-the-LandingPizzeria/Libreria/LandingPizzeria.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/et12alumno/.nuget/NuGet/NuGet.Config"

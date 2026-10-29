@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "CNi+YBZZR3s=",
+  "dgSpecHash": "dtPr4wDAmCk=",
   "success": true,
   "projectFilePath": "/mnt/Datos/S_proyect/Five Night at the Pizzeria/Five-Night-at-the-LandingPizzeria/Libreria/LandingPizzeria.Persistence/LandingPizzeria.Persistence.csproj",
   "expectedPackageFiles": [
     "/home/et12alumno/.nuget/packages/dapper/2.1.89/dapper.2.1.89.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/microsoft.extensions.configuration/10.0.14/microsoft.extensions.configuration.10.0.14.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.14/microsoft.extensions.configuration.abstractions.10.0.14.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/microsoft.extensions.primitives/10.0.14/microsoft.extensions.primitives.10.0.14.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/mysqlconnector/2.6.2/mysqlconnector.2.6.2.nupkg.sha512"
   ],
   "logs": []

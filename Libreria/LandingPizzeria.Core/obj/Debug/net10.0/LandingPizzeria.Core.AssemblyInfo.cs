@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LandingPizzeria.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fed1be716234f2d4ba4926266855585be7d99b24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+994c5c9536e19ba2f00a5ae094797ab6209ba40f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LandingPizzeria.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LandingPizzeria.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
